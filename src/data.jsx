@@ -41,7 +41,7 @@ export const data = {
   ],
   contacts: {
     telegram: (
-      <a href="https://t.me/username" target="_blank">
+      <a href="https://t.me/ashabondarev" target="_blank">
         @ashabondarev
       </a>
     ),
